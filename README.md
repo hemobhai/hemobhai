@@ -18,7 +18,7 @@
 <a href="https://codesandbox.com/hemobhai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="hemobhai" height="30" width="40" /></a>
 <a href="https://fb.com/hemant.sharan.904" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hemobhai" height="30" width="40" /></a>
 <a href="https://instagram.com/bhaihemo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bhaihemo" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/hemobhai1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hemobhai1" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC1b7RL8owIqJYD3Zoyqcvhg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hemobhai1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
