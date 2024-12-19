@@ -1,6 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Himanshu Sharan</h1>
-<h3 align="center">Passionate Full-Stack Web Developer | HTML | CSS | JavaScript | MongoDB | Node.js | Express.js | Turning ideas into seamless digital experiences. Enthusiastic about creating user-friendly web applications. Let's collaborate and build something extraordinary!</h3>
+<h3 align="center"> Graduate Software Developer with hands-on experience in full-stack development, specializing in backend
+ technologies using Node.js, React, and MySQL. Adept at building scalable applications, API integrations, and
+ enhancing user authentication processes. Proficient in managing complex projects with a focus on efficiency
+ and automation. Seeking to leverage my expertise in software development to contribute to innovative teams.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemobhai&label=Profile%20views&color=0e75b6&style=flat" alt="hemobhai" /> </p>
 
